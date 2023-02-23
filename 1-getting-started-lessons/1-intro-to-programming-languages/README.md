@@ -124,6 +124,8 @@ Developers rely on editors for a few additional reasons:
   - [emmet](https://emmet.io/)
   - [SublimeLinter](http://www.sublimelinter.com/en/stable/)
 
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+
 ### Browsers
 
 Another crucial tool is the browser. Web developers rely on the browser to see how their code runs on the web. It's also used to display the visual elements of a web page that are written in the editor, like HTML.
